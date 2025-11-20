@@ -6,6 +6,8 @@
 |**ML.Project_2**|Углубленное изучение линейных моделей: линейная регрессия, регулизация Ridge, Lasso и ElasticNet. Анализ переобучения, подбор гиперпараметров и работа с различными метриками качества.|https://github.com/mashanchic/School-projects/tree/main/ML_Project%202|
 |**ML.Project_3**| Методы кросс-валидации, оптимизация гиперпараметров и отбор признаков. Изучение GridSearch, RandomizedSearch и feature selection методов.|https://github.com/mashanchic/School-projects/tree/main/ML_Project%203|
 |**ML.Project_4**|	Введение в классификационные алгоритмы: Logistic Regression, Naive Bayes и KNN. Работа с метриками качества на задаче предсказания качества автомобилей.|https://github.com/mashanchic/School-projects/tree/main/ML_Project%204|
+|**ML.Project_5**|	Изучение деревьев решений и ансамблевых методов для задач классификации. Реализация алгоритмов CART, Random Forest, Gradient Boosting (GBDT) и Extra Randomized Trees, сравнение современных библиотек бустинга (XGBoost, LightGBM, CatBoost).||
+
 
 ## Data Science Projects
 
