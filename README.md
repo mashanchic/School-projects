@@ -5,7 +5,7 @@
 |**ML.Project_1**  | Базовый анализ данных и построение первых ML-моделей. Изучение EDA, предобработки данных и основ линейной регрессии. Практическое применение на задаче предсказания цен на аренду квартир.|https://github.com/mashanchic/School-projects/tree/main/ML_Project%201|
 |**ML.Project_2**|Углубленное изучение линейных моделей: линейная регрессия, регулизация Ridge, Lasso и ElasticNet. Анализ переобучения, подбор гиперпараметров и работа с различными метриками качества.|https://github.com/mashanchic/School-projects/tree/main/ML_Project%202|
 |**ML.Project_3**| Методы кросс-валидации, оптимизация гиперпараметров и отбор признаков. Изучение GridSearch, RandomizedSearch и feature selection методов.|https://github.com/mashanchic/School-projects/tree/main/ML_Project%203|
-|**ML.Project_4**|	Введение в классификационные алгоритмы: Logistic Regression, Naive Bayes и KNN. Работа с метриками качества на задаче предсказания качества автомобилей.||
+|**ML.Project_4**|	Введение в классификационные алгоритмы: Logistic Regression, Naive Bayes и KNN. Работа с метриками качества на задаче предсказания качества автомобилей.|https://github.com/mashanchic/School-projects/tree/main/ML_Project%204|
 
 ## Data Science Projects
 
